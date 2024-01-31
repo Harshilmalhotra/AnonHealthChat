@@ -6,7 +6,8 @@ In conventional healthcare systems, patients often face barriers to open communi
 ## What it does:-
 Patients can purchase time slots from the app either by paying using cryptocurrency or usual modes of online payment systems. After purchase an account-id and key will be given to patients, they caninteract with doctor peacefully without feeling insecure since it supports end-to-end encryption since its built using blockchain technology and on top of **Polygon Dapp**.
 
-##
+## Challenges we ran into
+So, first challenge we ran into was running smart contract file on vs code. We tried may vs extensions, saw tutorials on youtube and chat gpt -ing we found out  a solution that we should run our smart contract file on https://remix.ethereum.org/ then fetch an api key for the smart contract and put that that key into our chat application.
 
 
 
